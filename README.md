@@ -86,8 +86,3 @@ medical measurement.
   "Eulerian Video Magnification for Revealing Subtle Changes in the World,"
   ACM Transactions on Graphics (SIGGRAPH), 2012.** — source of the EVM concept.
   Project page: http://people.csail.mit.edu/mrub/evm/
-- A public `cvzone`/MediaPipe reference script (YouTube demo) implements the
-  same idea. It was consulted only to understand the mechanics; this project is
-  an independent implementation (plain-OpenCV Haar detection, own ROI/band/
-  buffer choices, own structure and comments, measured frame rate). No code
-  from it was reused.
